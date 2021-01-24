@@ -1,0 +1,8 @@
+.cards__item {
+  margin-top: 60px;
+  width: 234px;
+}
+
+.cards__item:not(:nth-last-of-type(3)){
+  margin-right: 100px;
+}
