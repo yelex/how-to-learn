@@ -3,4 +3,10 @@
   height: 35px;
   align-self: start;
   justify-self: start;
+  text-decoration: none;
+  transition: opacity 0.3s linear;
+}
+
+.logo_place_footer:hover {
+  opacity: 0.5;
 }
