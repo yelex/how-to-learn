@@ -6,4 +6,5 @@
 - БЭМ
 - Анимации
 
-# [Демо](https://yelex.github.io/how-to-learn/) 
+ # Демо 
+ https://yelex.github.io/how-to-learn/
